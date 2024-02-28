@@ -14,4 +14,4 @@ npm install
 
 npm run dev
 ```
-Then, 
+Then, go to: http://localhost:5173
